@@ -7,6 +7,7 @@ public class newHashset {
         hs.add("b");
         hs.add("c");
         hs.add("d");
+        hs.add("e");
 //        boolean r2=hs.add("a");
 //        System.out.println(r2);
         hs.remove("c");
